@@ -1,5 +1,7 @@
 # MFB-Host-Parasitoid
 
+O trabalho final se encontra dentro da pasta "A2".
+
 ## Tópicos
 - Resumo
 - Por que combinar modelagem ecológica com controle da população de pragas?
@@ -9,10 +11,13 @@
 - Cenários, Teoria Ecológica e MIP
 - Artigos com modelagem relacionada
 - Metodologia
+- Pontos de equilíbrio
+- Discussão
+- Conclusão
 - Referências
 
 ## Resumo 
-Estudo matemático do modelo hospedeiro-parasitóide por meio de um modelo discreto.
+Estudo matemático do modelo hospedeiro-parasitóide por meio do modelo de Lotka e Volterra da predação.
 O modelo matemático hospedeiro-parasitóide é um modelo que foi desenvolvido com o objetivo de entender
 as interações de uma ou mais espécies de hospedeiros para um respectivo parasita que em sua maioria são
 Insetos. O objetivo de modelar tais interações se deve ao fato de que o controle biológico de pragas, que em
